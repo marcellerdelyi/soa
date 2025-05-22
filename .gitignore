@@ -1,0 +1,6 @@
+# ignore python
+__pycache__/
+.venv
+
+# ignore blend files
+*.blend[1-9]
